@@ -1,3 +1,4 @@
+how use lib https://github.com/adafruit/Adafruit_TouchScreen width arduino M0 (SAMD21)
 [YouTube](https://www.youtube.com/watch?v=eTb5QCJOWiI&lc=UgwR3_jKg-qi1CdFpnx4AaABAg)
 file TouchScreen.cpp copy to ....\Arduino\libraries\Touch-Screen-Library-master\
 file wiring_digital.c copy to ....\Local\Arduino15\packages\arduino\hardware\samd\1.6.18\cores\arduino\
